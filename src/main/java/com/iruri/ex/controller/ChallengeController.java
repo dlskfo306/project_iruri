@@ -300,9 +300,8 @@ public class ChallengeController {
     //유저가 챌린지 신청 기록이 있는지 
     @GetMapping("/iruri/challengeJoinCheck")
     @ResponseBody
-    public void joinCheck(@RequestParam("classId") int classId, @CurrentUser IUserVO vo, HttpServletResponse response) throws IOException {
-        
-        vo = vo == null ? new IUserVO() : vo;
+    public void joinCheck(@RequestParam("classId") int classId, @CurrentUser IUserVO vo, 
+            HttpServletResponse response) throws IOException {
         
         int check = challengeService.getUserJoinChallengeListCheck(classId, vo.getUserId());
     
@@ -370,6 +369,7 @@ public class ChallengeController {
             boardVO.setCategoryId(5);
             boardVO.setIUserVO(iUservo);
             
+            // 썸네일
             try {
                 File saveFile = new File(uploadFolder, uploadFileName);
                 uploadFile.transferTo(saveFile);

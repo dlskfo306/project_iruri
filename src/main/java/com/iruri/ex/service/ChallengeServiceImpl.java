@@ -49,14 +49,13 @@ public class ChallengeServiceImpl implements ChallengeService {
     }
 
     /*----------챌린지 메인-----------*/
-    //관심 챌린지
+    //추천 챌린지
     @Override
     public List<IClassVO> getChallengeRecommendInfo(int classId) {
         log.info("getChallengeRecommendInfo()..");
         
         return challengeMapper.challengeRecommend(classId);
     }
-    
     
     //전체 챌린지
     @Override
@@ -72,7 +71,6 @@ public class ChallengeServiceImpl implements ChallengeService {
         return challengeMapper.getTotalCount_challenge(cri);
     }
 
-   
     //지난 챌린지 
     @Override
     public List<IClassVO> challengeEndList(Criteria criteria) {

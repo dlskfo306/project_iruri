@@ -358,6 +358,24 @@
 	                     
 	                        $(".c_list").html(htmls);
 	         				$(".page_nation").html(htmls2);
+	         				 
+	         				$('.heart_label').on('click', function(e) {
+                                 let forStr = e.currentTarget.htmlFor
+                                 let classId = forStr.substring(5);
+
+                                 $.ajax({
+                                     url: '${CONTEXT_PATH}/iruri/heart',
+                                     type: 'GET',
+                                     cache: false,
+                                     dateType: 'json',
+                                     data: {
+                                         classId: classId,
+                                     },
+                                     success: function(result) {
+                                    	 getlist(1);
+                                     }
+                                 });
+                             });
 	                     }
 	                     
 	                 });

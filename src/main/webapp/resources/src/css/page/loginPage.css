@@ -38,6 +38,9 @@
   outline: none;
   background-color: inherit;
   width: 275px;
+      position: relative;
+    top: 10px;
+}
 }
 
 .login-email input::placeholder,
@@ -64,6 +67,8 @@
   height: 30px;
   align-self: flex-start;
   margin: 25px 0;
+      position: relative;
+    left: 190px;
 }
 
 .login-remember label {

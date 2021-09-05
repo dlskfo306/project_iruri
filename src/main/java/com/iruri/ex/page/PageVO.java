@@ -54,12 +54,9 @@ public class PageVO {
                 .queryParam("classId", cri.getClassId())
 
                 .build(); // ?pageNum=3&amount=10
-        
-     
-        
+ 
         return uriComponentsBuilder.toUriString(); // ?pageNum=3&amount=10 리턴
     }
-
 }
 
     
