@@ -13,7 +13,13 @@ Iruri Project
 * 원하는 챌린지를 검색할 수 있고, 관심 챌린지로 등록, 삭제할 수 있습니다.
 * 챌린지 참여 후에는 인증 사진과 댓글을 등록, 수정, 삭제할 수 있습니다.
 ----------
-
+* Spring MVC, JavaSE8 을 이용한 백엔드 개발
+* Tomcat 9 를 이용한 웹 서버 구현
+* Oracle 을 이용한 DB 설계
+* MyBatis 를 이용한 DB 연동
+* HTML5, CSS3, JavaScript, JQuery, AJAX, XML, JSON 을 이용한 프론트엔드 개발
+* Github, 소스트리 를 이용한 협업
+---------
 
 
 
