@@ -86,10 +86,8 @@ Iruri Project
 
 <img src="https://user-images.githubusercontent.com/81891997/132443688-22230662-90d1-47f4-8f01-48a918108067.jpg" width="400" height="550"> <img src="https://user-images.githubusercontent.com/81891997/132443694-b89f5c89-b838-4b96-9ee6-72e40c376b61.jpg" width="400" height="550"/>
 
-<img src="https://user-images.githubusercontent.com/81891997/132443704-56476db4-cdc8-458b-8b05-7432a5c0ff7e.jpg" width="400" height="550"/>
-<img src="https://user-images.githubusercontent.com/81891997/132443710-a160e38e-226f-4fda-8d71-cd5e36546a21.jpg" width="400" height="550"/>
+<img src="https://user-images.githubusercontent.com/81891997/132443704-56476db4-cdc8-458b-8b05-7432a5c0ff7e.jpg" width="400" height="350"> <img src="https://user-images.githubusercontent.com/81891997/132443710-a160e38e-226f-4fda-8d71-cd5e36546a21.jpg" width="400" height="350"/>
 
 ![그림19](https://user-images.githubusercontent.com/81891997/132443714-007eb51f-378d-4bb8-8d73-a58893380e33.jpg)
 
-<img src="https://user-images.githubusercontent.com/81891997/132443718-a990cb6d-dada-4d19-8123-9119015e8da1.jpg" width="400" height="550"/>
-<img src="https://user-images.githubusercontent.com/81891997/132443723-27f54914-0f24-44ce-a995-9eff1dea4f2e.jpg" width="400" height="550"/>
+<img src="https://user-images.githubusercontent.com/81891997/132443718-a990cb6d-dada-4d19-8123-9119015e8da1.jpg" width="420" height="350"> <img src="https://user-images.githubusercontent.com/81891997/132443723-27f54914-0f24-44ce-a995-9eff1dea4f2e.jpg" width="400" height="350"/>
