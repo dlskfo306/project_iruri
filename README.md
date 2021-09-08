@@ -13,12 +13,12 @@ Iruri Project
 * 원하는 챌린지를 검색할 수 있고, 관심 챌린지로 등록, 삭제할 수 있습니다.
 * 챌린지 참여 후에는 인증 사진과 댓글을 등록, 수정, 삭제할 수 있습니다.
 ----------
-* Spring MVC, JavaSE8 을 이용한 백엔드 개발
-* Tomcat 9 를 이용한 웹 서버 구현
-* Oracle 을 이용한 DB 설계
-* MyBatis 를 이용한 DB 연동
-* HTML5, CSS3, JavaScript, JQuery, AJAX, XML, JSON 을 이용한 프론트엔드 개발
-* Github, 소스트리 를 이용한 협업
+* **Spring MVC, JavaSE8** 을 이용한 **백엔드 개발**
+* **Tomcat 9** 를 이용한 **웹 서버 구현**
+* **Oracle** 을 이용한 **DB 설계**
+* **MyBatis** 를 이용한 **DB 연동**
+* **HTML5, CSS3, JavaScript, JQuery, AJAX, XML, JSON** 을 이용한 **프론트엔드 개발**
+* **Github, 소스트리** 를 이용한 **협업**
 ---------
 
 
@@ -80,6 +80,9 @@ Iruri Project
 
 <img src="https://user-images.githubusercontent.com/81891997/132336953-cb2617df-0ff4-402c-a10e-fede20355a70.jpg" width="400" height="550"/>
 
+>![챌린지 개설 폼](https://user-images.githubusercontent.com/81891997/132515281-73a90ff3-e4bd-4234-a9fc-01bcdf981a61.gif)
+
+
 --------------
 
 ### 5. 챌린지 상세 페이지 (참여 전)
@@ -88,6 +91,9 @@ Iruri Project
 
 ![그림9](https://user-images.githubusercontent.com/81891997/132442495-4fc3abe1-83ba-4484-9a5a-02a430760b67.jpg)
 ![그림10](https://user-images.githubusercontent.com/81891997/132442524-3cd93e04-3eef-4c8d-baa9-afcdc6f5034b.jpg)
+
+>![챌린지 참여](https://user-images.githubusercontent.com/81891997/132515319-d6a8ebb6-383b-46dd-9fd1-22f93b8e21c3.gif)
+
 
 -----------------
 
@@ -120,6 +126,11 @@ Iruri Project
 
 <img src="https://user-images.githubusercontent.com/81891997/132443704-56476db4-cdc8-458b-8b05-7432a5c0ff7e.jpg" width="400" height="350"> <img src="https://user-images.githubusercontent.com/81891997/132443710-a160e38e-226f-4fda-8d71-cd5e36546a21.jpg" width="400" height="350"/>
 
+> ![인증글 작성 수정 삭제](https://user-images.githubusercontent.com/81891997/132515471-c6403193-b758-47b1-bdea-b6208ae6bc02.gif)
+
 ![그림19](https://user-images.githubusercontent.com/81891997/132443714-007eb51f-378d-4bb8-8d73-a58893380e33.jpg)
 
 <img src="https://user-images.githubusercontent.com/81891997/132443718-a990cb6d-dada-4d19-8123-9119015e8da1.jpg" width="420" height="350"> <img src="https://user-images.githubusercontent.com/81891997/132443723-27f54914-0f24-44ce-a995-9eff1dea4f2e.jpg" width="400" height="350"/>
+
+>![댓글 작성 수정 삭제](https://user-images.githubusercontent.com/81891997/132515509-f237e450-7b64-4457-ac85-8be2dabf3e65.gif)
+
