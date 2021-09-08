@@ -52,3 +52,41 @@ Iruri Project
 <img src="https://user-images.githubusercontent.com/81891997/132336953-cb2617df-0ff4-402c-a10e-fede20355a70.jpg" width="400" height="550"/>
 
 
+### 5. 챌린지 상세 페이지 (참여 전)
+
+* 로그인 한 유저가 챌린지 참여하기 버튼을 클릭할 경우, 챌린지 참여 확인 모달이 뜹니다.
+* 모달에서 참여를 클릭하면 참여 후 페이지로 변경 됩니다.
+
+![그림9](https://user-images.githubusercontent.com/81891997/132442495-4fc3abe1-83ba-4484-9a5a-02a430760b67.jpg)
+![그림10](https://user-images.githubusercontent.com/81891997/132442524-3cd93e04-3eef-4c8d-baa9-afcdc6f5034b.jpg)
+
+
+### 6. 챌린지 상세 페이지 (참여 후)
+
+* 참여 후로 변경 시에 유저 챌린지 목록에 추가가 됩니다.
+* 참여 인원이 1 증가하게 됩니다.
+* 그 이후 부터는 유저가 해당 챌린지를 신청한 기록이 있는지 체크 후에 신청 기록이 있다면 참여 후 페이지로, 신청 기록이 없다면 참여 전 페이지로 뜨게 됩니다.
+* 인원이 마감 되었을 경우, '인원 마감된 챌린지 입니다.'라는 안내 문구가 뜹니다.   
+(지난 챌린지는 '지난 챌린지 입니다.' 라는 안내 문구가 뜹니다.)
+
+![그림11](https://user-images.githubusercontent.com/81891997/132442817-813ae3bb-cd2f-421b-b167-e9080814516a.jpg)
+![그림12](https://user-images.githubusercontent.com/81891997/132442852-35a486d7-6262-4280-8ea7-a94d61fc7654.jpg)
+
+## 7. 챌린지 상세 페이지 (인증글, 댓글)
+
+* 챌린지 참여 후 부터 인증하기, 댓글 입력이 가능합니다.
+* 댓글 리스트에서 내 댓글엔 수정, 삭제 버튼을 클릭할 수 있고, 다른 회원의 댓글은 신고 버튼을 클릭할 수 있습니다.   
+(신고 시에는 관리자 마이페이지에 신고 댓글이 등록되며, 관리자가 판단 후에 감추기를 할 수 있습니다.)
+* 관리자로 로그인 시 회원 댓글 감추기 버튼이 생성됩니다.
+* 인증글 리스트에선 내 인증글 클릭 시 수정, 삭제가 가능하고, 다른 회원의 인증글은 확인만 가능합니다.
+* 인증글 입력, 수정, 확인은 모달로 구현되었습니다.
+
+![그림13](https://user-images.githubusercontent.com/81891997/132443679-f1be35d1-1fa2-4c68-b693-91234813ad9e.jpg)
+![그림14](https://user-images.githubusercontent.com/81891997/132443683-a1c2b1cf-836a-49aa-9dfa-8e1c6141e4ef.jpg)
+![그림15](https://user-images.githubusercontent.com/81891997/132443688-22230662-90d1-47f4-8f01-48a918108067.jpg)
+![그림16](https://user-images.githubusercontent.com/81891997/132443694-b89f5c89-b838-4b96-9ee6-72e40c376b61.jpg)
+![그림17](https://user-images.githubusercontent.com/81891997/132443704-56476db4-cdc8-458b-8b05-7432a5c0ff7e.jpg)
+![그림18](https://user-images.githubusercontent.com/81891997/132443710-a160e38e-226f-4fda-8d71-cd5e36546a21.jpg)
+![그림19](https://user-images.githubusercontent.com/81891997/132443714-007eb51f-378d-4bb8-8d73-a58893380e33.jpg)
+![그림20](https://user-images.githubusercontent.com/81891997/132443718-a990cb6d-dada-4d19-8123-9119015e8da1.jpg)
+![그림21](https://user-images.githubusercontent.com/81891997/132443723-27f54914-0f24-44ce-a995-9eff1dea4f2e.jpg)
