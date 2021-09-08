@@ -1,9 +1,23 @@
 Iruri Project
 =============
 > 공간과 시간에 제약없이 언제 어디서든 할 수 있는 온라인 PT & **Challenge** 서비스 입니다.
+#### 투입 인원 : 5명
+-----------
+#### 작업 기간 : 2021/06/21 ~ 2021/08/20
+* 기획 및 디자인 : 2021/06/21 ~ 2021/06/28
+* DB설계 : 2021/06/29 ~ 2021/07/09
+* 코딩 : 2021/07/12 ~ 2021/08/13
+* 마무리 및 문서작업 : 2021/08/14 ~ 2021/08/20
+ -----
 * 챌린지는 일반 유저가 직접 개설 및 참여를 할 수 있습니다.
 * 원하는 챌린지를 검색할 수 있고, 관심챌린지로 등록, 삭제 할 수 있습니다.
 * 챌린지 참여 후에는 인증 사진과 댓글을 등록, 수정, 삭제 할 수 있습니다.
+----------
+
+
+
+
+
 
 주요 기능
 -------------
@@ -17,7 +31,9 @@ Iruri Project
 <img src="https://user-images.githubusercontent.com/81891997/132324695-6e8ffcee-af3e-4f35-81d9-60fad50a3a83.jpg" width="600" height="400"/>
 <img src="https://user-images.githubusercontent.com/81891997/132325064-98296f83-088d-4267-b822-f65379168cac.jpg" width="600" height="400"/>
 
->![Challenge_Main](https://user-images.githubusercontent.com/81891997/132330213-7c601cef-7f01-4913-91fc-1500f9b273ad.gif)
+>![Challenge_Main](https://user-images.githubusercontent.com/81891997/132330213-7c601cef-7f01-4913-91fc-1500f9b273ad.gif)    
+
+---------    
 
 ### 2. 관심 챌린지
 
@@ -30,6 +46,8 @@ Iruri Project
 
 >![관심챌린지](https://user-images.githubusercontent.com/81891997/132333508-6b3c0d00-5842-4f1c-a6bf-410aefbeafe3.gif)
 
+-------------
+
 ### 3. 챌린지 개설
 
 * **챌린지 개설은 회원 가입, 로그인 한 유저만 개설이 가능**합니다.
@@ -39,6 +57,8 @@ Iruri Project
 <img src="https://user-images.githubusercontent.com/81891997/132333911-610d8488-3e03-40fe-b680-06668eea50b8.jpg" width="450" height="550"/>
 
 >![챌린지개설 1](https://user-images.githubusercontent.com/81891997/132334241-7ddfd555-e3bf-4adb-b68a-cb88c2caf459.gif)
+
+---------
 
 ### 4. 챌린지 개설 폼
 
@@ -51,6 +71,7 @@ Iruri Project
 
 <img src="https://user-images.githubusercontent.com/81891997/132336953-cb2617df-0ff4-402c-a10e-fede20355a70.jpg" width="400" height="550"/>
 
+--------------
 
 ### 5. 챌린지 상세 페이지 (참여 전)
 
@@ -60,6 +81,7 @@ Iruri Project
 ![그림9](https://user-images.githubusercontent.com/81891997/132442495-4fc3abe1-83ba-4484-9a5a-02a430760b67.jpg)
 ![그림10](https://user-images.githubusercontent.com/81891997/132442524-3cd93e04-3eef-4c8d-baa9-afcdc6f5034b.jpg)
 
+-----------------
 
 ### 6. 챌린지 상세 페이지 (참여 후)
 
@@ -71,6 +93,8 @@ Iruri Project
 
 ![그림11](https://user-images.githubusercontent.com/81891997/132442817-813ae3bb-cd2f-421b-b167-e9080814516a.jpg)
 ![그림12](https://user-images.githubusercontent.com/81891997/132442852-35a486d7-6262-4280-8ea7-a94d61fc7654.jpg)
+
+-------------
 
 ## 7. 챌린지 상세 페이지 (인증글, 댓글)
 
