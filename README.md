@@ -35,8 +35,8 @@ Iruri Project
 * **챌린지 개설은 회원 가입, 로그인 한 유저만 개설이 가능**합니다.
 * 비회원은 챌린지 개설을 할 수 없습니다. (버튼 비활성화)
 * 챌린지 메인 페이지에 있는 **'챌린지 개설' 버튼을 클릭 시 챌린지 개설 전 안내 모달이 뜨고**, 해당 **체크 박스를 모두 체크해야 '챌린지 개설 진행'버튼이 활성화** 됩니다.
-<img src="https://user-images.githubusercontent.com/81891997/132333899-2638f73c-3432-4f67-a78f-ea2c3ccb35fb.jpg" width="250" height="100"/>
-<img src="https://user-images.githubusercontent.com/81891997/132333911-610d8488-3e03-40fe-b680-06668eea50b8.jpg" width="420" height="500"/>
+<img src="https://user-images.githubusercontent.com/81891997/132333899-2638f73c-3432-4f67-a78f-ea2c3ccb35fb.jpg" width="300" height="100"/>
+<img src="https://user-images.githubusercontent.com/81891997/132333911-610d8488-3e03-40fe-b680-06668eea50b8.jpg" width="450" height="550"/>
 
 >![챌린지개설 1](https://user-images.githubusercontent.com/81891997/132334241-7ddfd555-e3bf-4adb-b68a-cb88c2caf459.gif)
 
@@ -83,10 +83,13 @@ Iruri Project
 
 ![그림13](https://user-images.githubusercontent.com/81891997/132443679-f1be35d1-1fa2-4c68-b693-91234813ad9e.jpg)
 ![그림14](https://user-images.githubusercontent.com/81891997/132443683-a1c2b1cf-836a-49aa-9dfa-8e1c6141e4ef.jpg)
-![그림15](https://user-images.githubusercontent.com/81891997/132443688-22230662-90d1-47f4-8f01-48a918108067.jpg)
-![그림16](https://user-images.githubusercontent.com/81891997/132443694-b89f5c89-b838-4b96-9ee6-72e40c376b61.jpg)
-![그림17](https://user-images.githubusercontent.com/81891997/132443704-56476db4-cdc8-458b-8b05-7432a5c0ff7e.jpg)
-![그림18](https://user-images.githubusercontent.com/81891997/132443710-a160e38e-226f-4fda-8d71-cd5e36546a21.jpg)
+
+<img src="https://user-images.githubusercontent.com/81891997/132443688-22230662-90d1-47f4-8f01-48a918108067.jpg" width="400" height="550"> <img src="https://user-images.githubusercontent.com/81891997/132443694-b89f5c89-b838-4b96-9ee6-72e40c376b61.jpg" width="400" height="550"/>
+
+<img src="https://user-images.githubusercontent.com/81891997/132443704-56476db4-cdc8-458b-8b05-7432a5c0ff7e.jpg" width="400" height="550"/>
+<img src="https://user-images.githubusercontent.com/81891997/132443710-a160e38e-226f-4fda-8d71-cd5e36546a21.jpg" width="400" height="550"/>
+
 ![그림19](https://user-images.githubusercontent.com/81891997/132443714-007eb51f-378d-4bb8-8d73-a58893380e33.jpg)
-![그림20](https://user-images.githubusercontent.com/81891997/132443718-a990cb6d-dada-4d19-8123-9119015e8da1.jpg)
-![그림21](https://user-images.githubusercontent.com/81891997/132443723-27f54914-0f24-44ce-a995-9eff1dea4f2e.jpg)
+
+<img src="https://user-images.githubusercontent.com/81891997/132443718-a990cb6d-dada-4d19-8123-9119015e8da1.jpg" width="400" height="550"/>
+<img src="https://user-images.githubusercontent.com/81891997/132443723-27f54914-0f24-44ce-a995-9eff1dea4f2e.jpg" width="400" height="550"/>
