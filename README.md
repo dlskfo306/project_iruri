@@ -17,7 +17,7 @@ Iruri Project
 * **Tomcat 9** 를 이용한 **웹 서버 구현**
 * **Oracle** 을 이용한 **DB 설계**
 * **MyBatis** 를 이용한 **DB 연동**
-* **HTML5, CSS3, JavaScript, JQuery, AJAX, XML, JSON** 을 이용한 **프론트엔드 개발**
+* **HTML5, CSS3, JavaScript, JQuery, AJAX, XML** 을 이용한 **프론트엔드 개발**
 * **Github, 소스트리** 를 이용한 **협업**
 ---------
 
