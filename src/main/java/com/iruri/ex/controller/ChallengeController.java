@@ -1,6 +1,6 @@
 package com.iruri.ex.controller;
 
-import java.io.File;
+import java.io.File; 
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.HashMap;
@@ -13,12 +13,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
-import org.springframework.validation.BindingResult;
-import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
@@ -150,6 +146,7 @@ public class ChallengeController {
         
         return mav;
     }
+    
 
    //챌린지 메인 - 관심 챌린지 페이징 처리(ajax)
     @ResponseBody
@@ -266,9 +263,9 @@ public class ChallengeController {
     @GetMapping("/ajax/c_detail_before_reply")
     public ResponseEntity<HashMap<String, Object>> challenge_detail_before(@RequestParam("pageNum") int pageNum, 
             @RequestParam("classId") int classId){
-        HashMap<String, Object> result = new HashMap<>();
-        Criteria cri = new Criteria(pageNum, 6);
-        log.info(classId);
+       HashMap<String, Object> result = new HashMap<>();
+       Criteria cri = new Criteria(pageNum, 6);
+       log.info(classId);
        int total = challengeService.getTotal_challengeReply(cri,classId);
        result.put("pageMaker", new PageVO(cri,total));
        result.put("replyList", challengeService.challengeReplyList(cri,classId));

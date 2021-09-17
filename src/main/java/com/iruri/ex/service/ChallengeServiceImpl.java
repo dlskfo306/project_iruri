@@ -1,10 +1,9 @@
 package com.iruri.ex.service;
 
-import java.util.List;
+import java.util.List; 
 
 import javax.inject.Inject;
 
-import org.apache.ibatis.annotations.Param;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -15,7 +14,6 @@ import com.iruri.ex.vo.BoardVO;
 import com.iruri.ex.vo.BuyVO;
 import com.iruri.ex.vo.IClassVO;
 import com.iruri.ex.vo.IUserVO;
-import com.iruri.ex.vo.LikeListVO;
 import com.iruri.ex.vo.ReportVO;
 
 import lombok.extern.log4j.Log4j;
@@ -26,7 +24,7 @@ public class ChallengeServiceImpl implements ChallengeService {
     
     @Autowired
     private IClassMapper iClassMapper;
-    @Inject
+    @Autowired
     private ChallengeMapper challengeMapper;
     
 	
