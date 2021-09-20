@@ -1,15 +1,12 @@
 package com.iruri.ex.service;
 
-import java.util.List;
-
-import org.apache.ibatis.annotations.Param;
+import java.util.List; 
 
 import com.iruri.ex.page.Criteria;
 import com.iruri.ex.vo.BoardVO;
 import com.iruri.ex.vo.BuyVO;
 import com.iruri.ex.vo.IClassVO;
 import com.iruri.ex.vo.IUserVO;
-import com.iruri.ex.vo.LikeListVO;
 import com.iruri.ex.vo.ReportVO;
 
 public interface ChallengeService {

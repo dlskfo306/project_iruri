@@ -1,7 +1,7 @@
 
 package com.iruri.ex.mapper;
 
-import java.util.List;
+import java.util.List; 
 
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
@@ -11,17 +11,14 @@ import com.iruri.ex.vo.BoardVO;
 import com.iruri.ex.vo.BuyVO;
 import com.iruri.ex.vo.IClassVO;
 import com.iruri.ex.vo.IUserVO;
-import com.iruri.ex.vo.LikeListVO;
 import com.iruri.ex.vo.ReportVO;
 
-import lombok.extern.log4j.Log4j;
 
 @Mapper
 public interface ChallengeMapper {
     
    
-    
-    
+       
     // 6. 메퍼에서 메소드를 만든다 servicelImpl에서받는 메소드이다.
     List<IClassVO> selectAll(int userId);
 
@@ -120,14 +117,4 @@ public interface ChallengeMapper {
     int getTotalCount_challengeImg(Criteria cri, @Param("classId") int classId);
     List<BoardVO> getListWithPaging_challengeImg(@Param("pageNum") int pageNum, @Param("amount") int amount, @Param("classId") int classId);
 
-
-  
-
-
-
-
-
-    
-  
-  
 }

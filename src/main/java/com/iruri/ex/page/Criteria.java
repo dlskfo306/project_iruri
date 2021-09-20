@@ -1,8 +1,6 @@
 package com.iruri.ex.page;
 
-
-
-import lombok.Getter;
+import lombok.Getter; 
 import lombok.Setter;
 import lombok.ToString;
 

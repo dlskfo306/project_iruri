@@ -1,6 +1,6 @@
 package com.iruri.ex.controller;
 
-import java.io.File; 
+import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.HashMap;
@@ -482,7 +482,7 @@ public class ChallengeController {
         
         challengeService.deleteChallengeReply(boardId, vo.getUserId());
         
-        return "SUCCESS";
+        return "success";
 
     }
     

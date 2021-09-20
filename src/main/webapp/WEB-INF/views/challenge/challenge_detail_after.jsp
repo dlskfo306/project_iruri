@@ -43,7 +43,7 @@
 								alt="">
 						</div>
 
-						<!--오른쪽 위 정보-->a
+						<!--오른쪽 위 정보-->
 						<div class="c_detail_info1">
 							<div class="c_mini_subject">챌린지</div>
 							<div class="c_subject">${challengeInfo.classTitle}</div>
