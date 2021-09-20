@@ -44,7 +44,6 @@ public class PageVO {
     //util
     public String makeQuery(int page) {
         UriComponents uriComponentsBuilder = UriComponentsBuilder.newInstance()
-                .queryParam("pageNum", page)
                 .queryParam("pageNum", page) // pageNum=3
                 .queryParam("amount", cri.getAmount()) // pageNum=3&amount=10 (URL에서 3페이지 눌렀을때)
                 .queryParam("keyword", cri.getKeyword())
